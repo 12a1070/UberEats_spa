@@ -1,4 +1,4 @@
-// --- ここから追加 ---
+
 import React, { Fragment, useEffect } from 'react';
 import styled from 'styled-components';
 
@@ -46,4 +46,3 @@ export const Restaurants = () => {
     </Fragment>
   )
 }
-// --- ここまで追加 ---
